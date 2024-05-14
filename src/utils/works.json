@@ -1,0 +1,30 @@
+[
+  {
+    "title": "LaundriX",
+    "url_text": "laundrix.vercel.app",
+    "url": "https://laundrix.vercel.app",
+    "card_image": "assets/project_card_images/Laundrix_cover.webp",
+    "image_link": "/LaundriX"
+  },
+  {
+    "title": "WalletX",
+    "url_text": "coming soon",
+    "url": "https://www.google.com/",
+    "card_image": "assets/project_card_images/Walletx_cover.webp",
+    "image_link": "/WalletX"
+  },
+  {
+    "title": "SLDC",
+    "url_text": "coming soon",
+    "url": "https://www.google.com/",
+    "card_image": "assets/project_card_images/SLDC_cover.webp",
+    "image_link": "/SLDC"
+  },
+  {
+    "title": "Personal Portfolio",
+    "url_text": "coming soon",
+    "url": "https://www.google.com/",
+    "card_image": "assets/project_card_images/Portfolio_cover.webp",
+    "image_link": "/Portfolio"
+  }
+]

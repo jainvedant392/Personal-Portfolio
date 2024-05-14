@@ -1,0 +1,66 @@
+[
+  {
+    "project_id": 0,
+    "project_name": "LaundriX",
+    "project_route": "/LaundriX",
+    "project_description": [
+      "A laundry booking system allowing users to book hassle free laundry appointments through an online website. This will save the time to get laundry done and make the experience seamless. Users will be able to book and place order for their preferred service, select convenient date and time slots and locations, and complete the process with secure payment methods.",
+      "",
+      "Features:",
+      "",
+      "- Authentication with JWT and Google OAuth.",
+      "- Choose between our services: Wash & Iron, PowerClean and DryClean.",
+      "- Add different clothing items.",
+      "- Select pickup date and location at convenience.",
+      "- Make secure online payments.",
+      "- View and review your past orders.",
+      "",
+      "Frontend built with Reactjs and Chakra UI, and backend is built with Expressjs and MongoDB. Animation with Lottie and payment gateway is powered by Razorpay."
+    ],
+    "project_images": [
+      "assets/project_pages/Laundrix/Laundrix1.webp",
+      "assets/project_pages/Laundrix/Laundrix2.webp",
+      "assets/project_pages/Laundrix/Laundrix3.webp",
+      "assets/project_pages/Laundrix/Laundrix4.webp",
+      "assets/project_pages/Laundrix/Laundrix5.webp"
+    ]
+  },
+  {
+    "project_id": 1,
+    "project_name": "WalletX",
+    "project_route": "/WalletX",
+    "project_description": [],
+    "project_images": [
+      "assets/project_pages/Walletx/Walletx1.webp",
+      "assets/project_pages/Walletx/Walletx2.webp",
+      "assets/project_pages/Walletx/Walletx3.webp",
+      "assets/project_pages/Walletx/Walletx4.webp"
+    ]
+  },
+  {
+    "project_id": 2,
+    "project_name": "SLDC",
+    "project_route": "/SLDC",
+    "project_description": [
+      "TP Central Odisha Distribution Limited (TPCODL) is a government body that offers reliable power distribution and enhanced customer service across 9 districts of Central Odisha. The project comes under ODISHA POWER TRANSMISSION CORPORATION LIMITED (OPTCL). It mainly revolves around the load forecasting concerning the Nothern, Central, Western, Southern regions of Odisha.",
+      "",
+      "It uses efficient deep learning models that calculates the Short term load forecast, Medium term load forecast, and the Long term load forecast and provides it to the distribution company ahead of the immediate need which facilitates a smooth and efficient load distribution across certain regions of Odisha.",
+      "",
+      "Frontend is handled with Reactjs(Typescript) and backend is built with Django REST Framework."
+    ],
+    "project_images": [
+      "assets/project_pages/SLDC/SLDC1.webp",
+      "assets/project_pages/SLDC/SLDC2.webp",
+      "assets/project_pages/SLDC/SLDC3.webp",
+      "assets/project_pages/SLDC/SLDC4.webp",
+      "assets/project_pages/SLDC/SLDC5.webp"
+    ]
+  },
+  {
+    "project_id": 3,
+    "project_name": "Personal Portfolio",
+    "project_route": "/Portfolio",
+    "project_description": [],
+    "project_images": []
+  }
+]
